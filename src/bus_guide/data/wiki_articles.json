@@ -1,0 +1,4022 @@
+[
+  {
+    "pageid": 10526804,
+    "ns": 0,
+    "title": "Embassy of Mexico, Berlin",
+    "lat": 52.5081,
+    "lon": 13.3512,
+    "dist": 39.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 56434497,
+    "ns": 0,
+    "title": "Embassy of Sweden, Berlin",
+    "lat": 52.50861111111111,
+    "lon": 13.350555555555555,
+    "dist": 66.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4247360,
+    "ns": 0,
+    "title": "Nordic Embassies (Berlin)",
+    "lat": 52.50861111111111,
+    "lon": 13.350555555555555,
+    "dist": 66.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 19816386,
+    "ns": 0,
+    "title": "Embassy of Syria, Berlin",
+    "lat": 52.5083,
+    "lon": 13.3502,
+    "dist": 93.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4833183,
+    "ns": 0,
+    "title": "Mexikanische Botschaft in Berlin",
+    "lat": 52.508111111111,
+    "lon": 13.351138888889,
+    "dist": 43.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4063272,
+    "ns": 0,
+    "title": "Schwedische Botschaft in Berlin",
+    "lat": 52.508674449444,
+    "lon": 13.350706100556,
+    "dist": 56.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10556803,
+    "ns": 0,
+    "title": "Kirche Jesu Christi der Heiligen der letzten Tage (Berlin-Tiergarten)",
+    "lat": 52.508708,
+    "lon": 13.352362,
+    "dist": 59.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 772132,
+    "ns": 0,
+    "title": "Nordische Botschaften",
+    "lat": 52.508611111111,
+    "lon": 13.350555555556,
+    "dist": 66.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8881169,
+    "ns": 0,
+    "title": "Syrische Botschaft in Berlin",
+    "lat": 52.508335,
+    "lon": 13.350178,
+    "dist": 94.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1850334,
+    "ns": 0,
+    "title": "Tiergarten-Dreieck",
+    "lat": 52.507777777778,
+    "lon": 13.350555555556,
+    "dist": 78.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10523214,
+    "ns": 0,
+    "title": "Senegalesische Botschaft in Berlin",
+    "lat": 52.507472222222,
+    "lon": 13.3515,
+    "dist": 19.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12436326,
+    "ns": 0,
+    "title": "Malaysische Botschaft in Berlin",
+    "lat": 52.507283333333,
+    "lon": 13.351386111111,
+    "dist": 34.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8878613,
+    "ns": 0,
+    "title": "Botschaft des Königreichs Saudi-Arabien in Berlin",
+    "lat": 52.5092653,
+    "lon": 13.353320299,
+    "dist": 132.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 9875127,
+    "ns": 0,
+    "title": "Maltesische Botschaft in Berlin",
+    "lat": 52.5069,
+    "lon": 13.3515,
+    "dist": 31.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 858427,
+    "ns": 0,
+    "title": "Berlin Victory Column",
+    "lat": 52.51444444444444,
+    "lon": 13.35,
+    "dist": 60.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 27429137,
+    "ns": 0,
+    "title": "Großer Stern",
+    "lat": 52.5145,
+    "lon": 13.35011,
+    "dist": 68.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4843292,
+    "ns": 0,
+    "title": "Bismarck Memorial (Berlin)",
+    "lat": 52.5158,
+    "lon": 13.3497,
+    "dist": 75.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 217540,
+    "ns": 0,
+    "title": "Straße des 17. Juni",
+    "lat": 52.51416666666667,
+    "lon": 13.350555555555555,
+    "dist": 52.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50216127,
+    "ns": 0,
+    "title": "Statue of Helmuth von Moltke the Elder",
+    "lat": 52.51544,
+    "lon": 13.35064,
+    "dist": 28.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50218414,
+    "ns": 0,
+    "title": "Altgermanische Wisentjagd",
+    "lat": 52.51335,
+    "lon": 13.34851,
+    "dist": 97.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50220023,
+    "ns": 0,
+    "title": "Eberjagd um 1500",
+    "lat": 52.51329,
+    "lon": 13.34868,
+    "dist": 96.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 11894114,
+    "ns": 0,
+    "title": "Roon-Denkmal (Berlin)",
+    "lat": 52.515332396289,
+    "lon": 13.349165571575,
+    "dist": 40,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 129695,
+    "ns": 0,
+    "title": "Siegessäule (Berlin)",
+    "lat": 52.514444444444,
+    "lon": 13.35,
+    "dist": 60.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 547576,
+    "ns": 0,
+    "title": "Großer Stern",
+    "lat": 52.514444444444,
+    "lon": 13.350555555556,
+    "dist": 73.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 547567,
+    "ns": 0,
+    "title": "Straße des 17. Juni",
+    "lat": 52.514166666667,
+    "lon": 13.350555555556,
+    "dist": 52.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1416850,
+    "ns": 0,
+    "title": "Bismarck-Nationaldenkmal (Berlin)",
+    "lat": 52.515833333333,
+    "lon": 13.349722222222,
+    "dist": 78.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11894106,
+    "ns": 0,
+    "title": "Moltke-Denkmal (Berlin)",
+    "lat": 52.515450762613,
+    "lon": 13.350643164148,
+    "dist": 29.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11326492,
+    "ns": 0,
+    "title": "Eberjagd der Renaissancezeit (um 1500)",
+    "lat": 52.513268,
+    "lon": 13.348625,
+    "dist": 100.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10147408,
+    "ns": 0,
+    "title": "Luxemburgische Botschaft in Berlin",
+    "lat": 52.5069,
+    "lon": 13.3515,
+    "dist": 31.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 43240098,
+    "ns": 0,
+    "title": "Waldorf Astoria Berlin",
+    "lat": 52.505695,
+    "lon": 13.333033,
+    "dist": 22.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 37979119,
+    "ns": 0,
+    "title": "Ufa-Palast am Zoo",
+    "lat": 52.50611111111111,
+    "lon": 13.334166666666667,
+    "dist": 63.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 76888947,
+    "ns": 0,
+    "title": "Upper West (Berlin)",
+    "lat": 52.504966,
+    "lon": 13.332796,
+    "dist": 94.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 14304878,
+    "ns": 0,
+    "title": "Romanisches Café",
+    "lat": 52.5053,
+    "lon": 13.3345,
+    "dist": 13.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4198386,
+    "ns": 0,
+    "title": "Beate Uhse Erotic Museum",
+    "lat": 52.50550833333333,
+    "lon": 13.331383333333333,
+    "dist": 106.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 71890272,
+    "ns": 0,
+    "title": "Gloria-Palast",
+    "lat": 52.50457194444444,
+    "lon": 13.333281944444444,
+    "dist": 115.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 574085,
+    "ns": 0,
+    "title": "Kaiser Wilhelm Memorial Church",
+    "lat": 52.505,
+    "lon": 13.335,
+    "dist": 41.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 2338732,
+    "ns": 0,
+    "title": "Berlin Zoologischer Garten station",
+    "lat": 52.507222222222225,
+    "lon": 13.3325,
+    "dist": 80.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 52637892,
+    "ns": 0,
+    "title": "2016 Berlin truck attack",
+    "lat": 52.505,
+    "lon": 13.335555555555556,
+    "dist": 45.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 37235153,
+    "ns": 0,
+    "title": "City West",
+    "lat": 52.5047,
+    "lon": 13.3353,
+    "dist": 72.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 9864552,
+    "ns": 0,
+    "title": "Wilhelmshallen",
+    "lat": 52.506111111111,
+    "lon": 13.333333333333,
+    "dist": 27.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1668564,
+    "ns": 0,
+    "title": "Zoofenster",
+    "lat": 52.505555555556,
+    "lon": 13.332777777778,
+    "dist": 45.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11532853,
+    "ns": 0,
+    "title": "Huthmacher-Haus",
+    "lat": 52.506388888889,
+    "lon": 13.333611111111,
+    "dist": 63.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3345680,
+    "ns": 0,
+    "title": "Ufa-Palast am Zoo",
+    "lat": 52.506111111111,
+    "lon": 13.334166666667,
+    "dist": 63.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1823463,
+    "ns": 0,
+    "title": "Zoo Palast",
+    "lat": 52.506111111111,
+    "lon": 13.334166666667,
+    "dist": 63.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 9027370,
+    "ns": 0,
+    "title": "Prinzeß-Theater (Berlin)",
+    "lat": 52.504995,
+    "lon": 13.332713,
+    "dist": 95.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1668610,
+    "ns": 0,
+    "title": "Upper West",
+    "lat": 52.504966,
+    "lon": 13.332796,
+    "dist": 94.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 9703681,
+    "ns": 0,
+    "title": "Anschlag auf den Berliner Weihnachtsmarkt an der Gedächtniskirche",
+    "lat": 52.505194444444,
+    "lon": 13.334444444444,
+    "dist": 25.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6287825,
+    "ns": 0,
+    "title": "Erstes Romanisches Haus (Berlin)",
+    "lat": 52.504857,
+    "lon": 13.333633,
+    "dist": 76.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11302282,
+    "ns": 0,
+    "title": "Aschinger-Haus",
+    "lat": 52.505841,
+    "lon": 13.331534,
+    "dist": 71.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 34891686,
+    "ns": 0,
+    "title": "Humboldt Box",
+    "lat": 52.5177,
+    "lon": 13.400429,
+    "dist": 41.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50427566,
+    "ns": 0,
+    "title": "Athena Protects the Young Hero",
+    "lat": 52.51778038888889,
+    "lon": 13.39864011111111,
+    "dist": 20,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3970576,
+    "ns": 0,
+    "title": "Lustgarten",
+    "lat": 52.51861111111111,
+    "lon": 13.399722222222222,
+    "dist": 64.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 49086158,
+    "ns": 0,
+    "title": "Schlossbrücke",
+    "lat": 52.5176,
+    "lon": 13.3986,
+    "dist": 23.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50427333,
+    "ns": 0,
+    "title": "Athena Arms the Warrior",
+    "lat": 52.5174825,
+    "lon": 13.398691611111111,
+    "dist": 28.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50427703,
+    "ns": 0,
+    "title": "Athena Leads the Young Warrior into the Fight",
+    "lat": 52.517767,
+    "lon": 13.3984095,
+    "dist": 20.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50427393,
+    "ns": 0,
+    "title": "Athena Teaches the Young Man How to Use a Weapon",
+    "lat": 52.51746680555556,
+    "lon": 13.398464888888888,
+    "dist": 29,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 56293434,
+    "ns": 0,
+    "title": "Museumsinsel (Berlin U-Bahn)",
+    "lat": 52.517403,
+    "lon": 13.398203,
+    "dist": 28.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 242698,
+    "ns": 0,
+    "title": "Brandenburg–Prussia",
+    "lat": 52.516666666666666,
+    "lon": 13.4,
+    "dist": 128.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 260934,
+    "ns": 0,
+    "title": "North German Confederation",
+    "lat": 52.516666666666666,
+    "lon": 13.4,
+    "dist": 131.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 6273131,
+    "ns": 0,
+    "title": "Humboldt-Box",
+    "lat": 52.517872222222,
+    "lon": 13.400427777778,
+    "dist": 24.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 380367,
+    "ns": 0,
+    "title": "Lustgarten (Berlin)",
+    "lat": 52.518611111111,
+    "lon": 13.399722222222,
+    "dist": 64.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 638894,
+    "ns": 0,
+    "title": "Schloßbrücke (Berlin-Mitte)",
+    "lat": 52.517633333333,
+    "lon": 13.398541666667,
+    "dist": 25.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4377630,
+    "ns": 0,
+    "title": "Dominikanerkloster Cölln",
+    "lat": 52.517193,
+    "lon": 13.400433,
+    "dist": 88.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1200596,
+    "ns": 0,
+    "title": "Radfernweg Berlin–Usedom",
+    "lat": 52.5183176,
+    "lon": 13.4010108,
+    "dist": 2.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 9386807,
+    "ns": 0,
+    "title": "Kupfergraben (Spree)",
+    "lat": 52.51819,
+    "lon": 13.398242,
+    "dist": 59.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6822206,
+    "ns": 0,
+    "title": "U-Bahnhof Museumsinsel",
+    "lat": 52.5174,
+    "lon": 13.3982,
+    "dist": 28.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1975417,
+    "ns": 0,
+    "title": "Schloßfreiheit",
+    "lat": 52.516783333333,
+    "lon": 13.399694444444,
+    "dist": 110.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4456499,
+    "ns": 0,
+    "title": "Zeughauskino",
+    "lat": 52.518055555556,
+    "lon": 13.397777777778,
+    "dist": 47.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 17285,
+    "ns": 0,
+    "title": "Berliner Schloss",
+    "lat": 52.516805555556,
+    "lon": 13.40075,
+    "dist": 136.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3725720,
+    "ns": 0,
+    "title": "Großfürstenplatz",
+    "lat": 52.517066,
+    "lon": 13.359236944444,
+    "dist": 32.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1952527,
+    "ns": 0,
+    "title": "Moabiter Werder",
+    "lat": 52.518333333333,
+    "lon": 13.358333333333,
+    "dist": 137.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2949977,
+    "ns": 0,
+    "title": "Allied-occupied Germany",
+    "lat": 52.516666666666666,
+    "lon": 13.383333333333333,
+    "dist": 15,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 41399467,
+    "ns": 0,
+    "title": "Timeline of Berlin",
+    "lat": 52.516667,
+    "lon": 13.383333,
+    "dist": 15,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 56385870,
+    "ns": 0,
+    "title": "Embassy of Russia, Berlin",
+    "lat": 52.5162,
+    "lon": 13.3835,
+    "dist": 68.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 537117,
+    "ns": 0,
+    "title": "Komische Oper Berlin",
+    "lat": 52.51583333333333,
+    "lon": 13.386944444444444,
+    "dist": 134,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 52199240,
+    "ns": 0,
+    "title": "List of ambassadors of Uruguay to East Germany",
+    "lat": 52.518245,
+    "lon": 13.382717,
+    "dist": 154.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 7824701,
+    "ns": 0,
+    "title": "Ministerium für Außenhandel",
+    "lat": 52.517115,
+    "lon": 13.384804,
+    "dist": 27.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10250658,
+    "ns": 0,
+    "title": "Otto-Wels-Haus",
+    "lat": 52.51709,
+    "lon": 13.3852,
+    "dist": 27.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4612288,
+    "ns": 0,
+    "title": "Berliner Aquarium Unter den Linden",
+    "lat": 52.516975,
+    "lon": 13.383448,
+    "dist": 22.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7471162,
+    "ns": 0,
+    "title": "Restaurant Hiller (Berlin)",
+    "lat": 52.516944444444,
+    "lon": 13.383333333333,
+    "dist": 16.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5622306,
+    "ns": 0,
+    "title": "Café Einstein Unter den Linden",
+    "lat": 52.5171839,
+    "lon": 13.3859503,
+    "dist": 23.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7074430,
+    "ns": 0,
+    "title": "Haus Pietzsch",
+    "lat": 52.5171839,
+    "lon": 13.3859503,
+    "dist": 23.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3170320,
+    "ns": 0,
+    "title": "Palais Kurland",
+    "lat": 52.516151944444,
+    "lon": 13.383456,
+    "dist": 72.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2961309,
+    "ns": 0,
+    "title": "Russische Botschaft in Berlin",
+    "lat": 52.516151944444,
+    "lon": 13.383456,
+    "dist": 72.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4890425,
+    "ns": 0,
+    "title": "Hotel Bristol (Berlin)",
+    "lat": 52.516151944444,
+    "lon": 13.383456,
+    "dist": 72.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 13212875,
+    "ns": 0,
+    "title": "Schadowhaus",
+    "lat": 52.517559,
+    "lon": 13.383219,
+    "dist": 80.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5702646,
+    "ns": 0,
+    "title": "Haus Kurfürstenstraße 114 (Berlin)",
+    "lat": 52.5034684,
+    "lon": 13.3475514,
+    "dist": 39.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10240150,
+    "ns": 0,
+    "title": "Liberianische Botschaft in Berlin",
+    "lat": 52.504662,
+    "lon": 13.344107,
+    "dist": 22.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10240127,
+    "ns": 0,
+    "title": "Botschaft von Mauritius in Berlin",
+    "lat": 52.504662,
+    "lon": 13.344107,
+    "dist": 22.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10555691,
+    "ns": 0,
+    "title": "Cooperative Mensch",
+    "lat": 52.503724,
+    "lon": 13.348798,
+    "dist": 35.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3488362,
+    "ns": 0,
+    "title": "Reichszentrale für jüdische Auswanderung",
+    "lat": 52.503096,
+    "lon": 13.348652,
+    "dist": 42.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4365590,
+    "ns": 0,
+    "title": "Eichmannreferat",
+    "lat": 52.503096,
+    "lon": 13.348652,
+    "dist": 42.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5919426,
+    "ns": 0,
+    "title": "Breitscheidplatz",
+    "lat": 52.50483,
+    "lon": 13.33617,
+    "dist": 47.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 43274636,
+    "ns": 0,
+    "title": "Weltkugelbrunnen",
+    "lat": 52.5047,
+    "lon": 13.3365,
+    "dist": 59.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 20412586,
+    "ns": 0,
+    "title": "104.6 RTL",
+    "lat": 52.504482,
+    "lon": 13.335534,
+    "dist": 97.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 28762298,
+    "ns": 0,
+    "title": "Mengenlehreuhr",
+    "lat": 52.50494444444445,
+    "lon": 13.338416666666667,
+    "dist": 29.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 9934794,
+    "ns": 0,
+    "title": "Europa-Center",
+    "lat": 52.504444444444445,
+    "lon": 13.33888888888889,
+    "dist": 90.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 10647873,
+    "ns": 0,
+    "title": "Staatliche Kunsthalle Berlin",
+    "lat": 52.505378,
+    "lon": 13.3362132,
+    "dist": 13.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5563735,
+    "ns": 0,
+    "title": "Bikini-Haus",
+    "lat": 52.505378,
+    "lon": 13.3362132,
+    "dist": 13.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8774556,
+    "ns": 0,
+    "title": "Capitol am Zoo",
+    "lat": 52.505378,
+    "lon": 13.3362132,
+    "dist": 13.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1125676,
+    "ns": 0,
+    "title": "Linientreu (Diskothek)",
+    "lat": 52.505277777778,
+    "lon": 13.337222222222,
+    "dist": 13.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 228234,
+    "ns": 0,
+    "title": "Weltkugelbrunnen",
+    "lat": 52.504652,
+    "lon": 13.33649,
+    "dist": 64.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 25095,
+    "ns": 0,
+    "title": "Die Stachelschweine",
+    "lat": 52.504722222222,
+    "lon": 13.336944444444,
+    "dist": 51.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 343068,
+    "ns": 0,
+    "title": "Breitscheidplatz",
+    "lat": 52.504722222222,
+    "lon": 13.335555555556,
+    "dist": 73.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1881171,
+    "ns": 0,
+    "title": "City West (Berlin)",
+    "lat": 52.504722222222,
+    "lon": 13.335277777778,
+    "dist": 70,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 114665,
+    "ns": 0,
+    "title": "Kaiser-Wilhelm-Gedächtniskirche",
+    "lat": 52.504722222222,
+    "lon": 13.335277777778,
+    "dist": 70,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12387112,
+    "ns": 0,
+    "title": "Goldener Riss",
+    "lat": 52.5051122,
+    "lon": 13.3347161,
+    "dist": 32.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 33010449,
+    "ns": 0,
+    "title": "Hotel Berlin, Berlin",
+    "lat": 52.50361111111111,
+    "lon": 13.352222222222222,
+    "dist": 111.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50217136,
+    "ns": 0,
+    "title": "Hercules and the Erymanthian Boar",
+    "lat": 52.50446,
+    "lon": 13.3525,
+    "dist": 89.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 47213400,
+    "ns": 0,
+    "title": "Lützowplatz",
+    "lat": 52.5047,
+    "lon": 13.3524,
+    "dist": 71.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3762513,
+    "ns": 0,
+    "title": "Stiftung Warentest",
+    "lat": 52.503976,
+    "lon": 13.353394,
+    "dist": 166.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 10953096,
+    "ns": 0,
+    "title": "Botschaft Venezuelas in Berlin",
+    "lat": 52.504166666667,
+    "lon": 13.350305555556,
+    "dist": 32.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6094397,
+    "ns": 0,
+    "title": "Hotel Berlin, Berlin",
+    "lat": 52.5038,
+    "lon": 13.3521,
+    "dist": 95.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5967672,
+    "ns": 0,
+    "title": "Lützowplatz",
+    "lat": 52.504689,
+    "lon": 13.352433,
+    "dist": 73.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1571656,
+    "ns": 0,
+    "title": "Bundesstraße S (Berlin)",
+    "lat": 52.504689,
+    "lon": 13.352433,
+    "dist": 73.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11534902,
+    "ns": 0,
+    "title": "Herkules und der Erymanthische Eber",
+    "lat": 52.50464,
+    "lon": 13.35256,
+    "dist": 83.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12912155,
+    "ns": 0,
+    "title": "Herkulesbrunnen (Berlin)",
+    "lat": 52.504722222222,
+    "lon": 13.3525,
+    "dist": 76.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 95376,
+    "ns": 0,
+    "title": "Stiftung Warentest",
+    "lat": 52.504166666667,
+    "lon": 13.353333333333,
+    "dist": 154.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3985681,
+    "ns": 0,
+    "title": "Haus am Lützowplatz",
+    "lat": 52.504407,
+    "lon": 13.353441,
+    "dist": 148.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 27903431,
+    "ns": 0,
+    "title": "Bundespräsidialamt",
+    "lat": 52.5164,
+    "lon": 13.3511,
+    "dist": 82.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 547669,
+    "ns": 0,
+    "title": "Bundespräsidialamt",
+    "lat": 52.516388888889,
+    "lon": 13.351111111111,
+    "dist": 81.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 40205747,
+    "ns": 0,
+    "title": "Memorial to the Sinti and Roma Victims of National Socialism",
+    "lat": 52.51722222222222,
+    "lon": 13.376111111111111,
+    "dist": 65.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 62838640,
+    "ns": 0,
+    "title": "Reichstag Bloodbath",
+    "lat": 52.5186,
+    "lon": 13.3763,
+    "dist": 94.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 15996587,
+    "ns": 0,
+    "title": "Reichstag dome",
+    "lat": 52.51861111111111,
+    "lon": 13.376111111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 291145,
+    "ns": 0,
+    "title": "Battle of Berlin",
+    "lat": 52.51861111111111,
+    "lon": 13.376111111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3768,
+    "ns": 0,
+    "title": "Bundestag",
+    "lat": 52.51861111111111,
+    "lon": 13.376111111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 10069214,
+    "ns": 0,
+    "title": "Battle in Berlin",
+    "lat": 52.51861111111111,
+    "lon": 13.376111111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 12674,
+    "ns": 0,
+    "title": "German Empire",
+    "lat": 52.51861111111111,
+    "lon": 13.376111111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 207360,
+    "ns": 0,
+    "title": "Reichstag fire",
+    "lat": 52.51861111111111,
+    "lon": 13.376111111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 217577,
+    "ns": 0,
+    "title": "Reichstag building",
+    "lat": 52.51861111111111,
+    "lon": 13.376111111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 42517669,
+    "ns": 0,
+    "title": "Memorial to the Murdered Members of the Reichstag",
+    "lat": 52.51798,
+    "lon": 13.37462,
+    "dist": 24.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4512195,
+    "ns": 0,
+    "title": "Scheidemannstraße",
+    "lat": 52.517759,
+    "lon": 13.376315,
+    "dist": 12.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3834083,
+    "ns": 0,
+    "title": "Denkmal für die im Nationalsozialismus ermordeten Sinti und Roma Europas",
+    "lat": 52.517222222222,
+    "lon": 13.376111111111,
+    "dist": 65.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1661686,
+    "ns": 0,
+    "title": "Kammer der Technik",
+    "lat": 52.5177251,
+    "lon": 13.3775399,
+    "dist": 17.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 237642,
+    "ns": 0,
+    "title": "SPD-Bundestagsfraktion",
+    "lat": 52.518560728611,
+    "lon": 13.376431581111,
+    "dist": 89.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7654121,
+    "ns": 0,
+    "title": "Simsonweg",
+    "lat": 52.517239,
+    "lon": 13.375382,
+    "dist": 58.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4463310,
+    "ns": 0,
+    "title": "Verhüllter Reichstag",
+    "lat": 52.518611,
+    "lon": 13.376111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 78509,
+    "ns": 0,
+    "title": "Reichstagsgebäude",
+    "lat": 52.518611111111,
+    "lon": 13.376111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5486339,
+    "ns": 0,
+    "title": "Andachtsraum im Reichstagsgebäude",
+    "lat": 52.518611111111,
+    "lon": 13.376111111111,
+    "dist": 98.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5207751,
+    "ns": 0,
+    "title": "Denkmal zur Erinnerung an 96 von den Nationalsozialisten ermordete Reichstagsabgeordnete",
+    "lat": 52.517941,
+    "lon": 13.374631,
+    "dist": 20.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1329363,
+    "ns": 0,
+    "title": "Reichstagspräsidentenpalais",
+    "lat": 52.518611111111,
+    "lon": 13.377777777778,
+    "dist": 83.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 45235137,
+    "ns": 0,
+    "title": "Equestrian statue of Frederick the Great",
+    "lat": 52.51722222222222,
+    "lon": 13.392777777777777,
+    "dist": 20.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50216325,
+    "ns": 0,
+    "title": "Statue of Theodor Mommsen",
+    "lat": 52.5178141,
+    "lon": 13.3932623,
+    "dist": 48.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50216987,
+    "ns": 0,
+    "title": "Statue of Max Planck",
+    "lat": 52.51775,
+    "lon": 13.39349,
+    "dist": 44.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 57878762,
+    "ns": 0,
+    "title": "Old Palace, Berlin",
+    "lat": 52.5169,
+    "lon": 13.3928,
+    "dist": 55.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50216417,
+    "ns": 0,
+    "title": "Statue of Hermann von Helmholtz",
+    "lat": 52.51785,
+    "lon": 13.39374,
+    "dist": 52.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 47225435,
+    "ns": 0,
+    "title": "Alexander von Humboldt Memorial, Berlin",
+    "lat": 52.5176,
+    "lon": 13.394,
+    "dist": 23.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 308234,
+    "ns": 0,
+    "title": "Humboldt University of Berlin",
+    "lat": 52.518055555555556,
+    "lon": 13.393333333333333,
+    "dist": 75.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 5356845,
+    "ns": 0,
+    "title": "Bebelplatz",
+    "lat": 52.516666666666666,
+    "lon": 13.393888888888888,
+    "dist": 79.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 64458439,
+    "ns": 0,
+    "title": "Alte Bibliothek",
+    "lat": 52.5164,
+    "lon": 13.3931,
+    "dist": 107,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 62134600,
+    "ns": 0,
+    "title": "The Empty Library",
+    "lat": 52.51651,
+    "lon": 13.393934,
+    "dist": 97,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 539992,
+    "ns": 0,
+    "title": "Reiterstandbild Friedrichs des Großen",
+    "lat": 52.517222222222,
+    "lon": 13.392777777778,
+    "dist": 20.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 9385366,
+    "ns": 0,
+    "title": "Wilhelm-von-Humboldt-Denkmal (Berlin)",
+    "lat": 52.517616120664,
+    "lon": 13.393459967162,
+    "dist": 29.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11534918,
+    "ns": 0,
+    "title": "Theodor-Mommsen-Statue",
+    "lat": 52.517814,
+    "lon": 13.393262,
+    "dist": 48.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 864937,
+    "ns": 0,
+    "title": "Altes Palais (Berlin)",
+    "lat": 52.516944444444,
+    "lon": 13.392777777778,
+    "dist": 50.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2331,
+    "ns": 0,
+    "title": "Humboldt-Universität zu Berlin",
+    "lat": 52.518055555556,
+    "lon": 13.393333333333,
+    "dist": 75.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1132538,
+    "ns": 0,
+    "title": "Palais des Prinzen Heinrich",
+    "lat": 52.518055555556,
+    "lon": 13.393333333333,
+    "dist": 75.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8317176,
+    "ns": 0,
+    "title": "Alexander-von-Humboldt-Denkmal (Berlin)",
+    "lat": 52.517657867883,
+    "lon": 13.394083363109,
+    "dist": 25.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3770417,
+    "ns": 0,
+    "title": "Gouverneurshaus",
+    "lat": 52.516861111111,
+    "lon": 13.392055555556,
+    "dist": 58.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6387303,
+    "ns": 0,
+    "title": "Staatsbibliothek Unter den Linden",
+    "lat": 52.517825,
+    "lon": 13.391698,
+    "dist": 55.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 716850,
+    "ns": 0,
+    "title": "Denkmal zur Erinnerung an die Bücherverbrennung",
+    "lat": 52.516388888889,
+    "lon": 13.392777777778,
+    "dist": 111.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 570214,
+    "ns": 0,
+    "title": "AquaDom",
+    "lat": 52.51972222222222,
+    "lon": 13.402777777777779,
+    "dist": 59.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3354,
+    "ns": 0,
+    "title": "Berlin",
+    "lat": 52.519999999999996,
+    "lon": 13.405000000000001,
+    "dist": 21.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 9483,
+    "ns": 0,
+    "title": "East Berlin",
+    "lat": 52.51861111111111,
+    "lon": 13.404444444444445,
+    "dist": 107.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 23251407,
+    "ns": 0,
+    "title": "DDR Museum",
+    "lat": 52.51902777777778,
+    "lon": 13.402222222222223,
+    "dist": 29.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 7531120,
+    "ns": 0,
+    "title": "Marx-Engels Forum",
+    "lat": 52.51833333333333,
+    "lon": 13.404166666666667,
+    "dist": 116.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 50424941,
+    "ns": 0,
+    "title": "Liebknecht Bridge",
+    "lat": 52.5186,
+    "lon": 13.4022,
+    "dist": 18.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 494808,
+    "ns": 0,
+    "title": "Berlin Cathedral",
+    "lat": 52.51916666666666,
+    "lon": 13.401111111111112,
+    "dist": 75.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 63821262,
+    "ns": 0,
+    "title": "Old Synagogue (Berlin)",
+    "lat": 52.5211,
+    "lon": 13.4048,
+    "dist": 87.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 22562811,
+    "ns": 0,
+    "title": "Mitte (locality)",
+    "lat": 52.519444444444446,
+    "lon": 13.406666666666666,
+    "dist": 142.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4672091,
+    "ns": 0,
+    "title": "Palasthotel (Berlin)",
+    "lat": 52.519666666667,
+    "lon": 13.402666666667,
+    "dist": 60.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2143479,
+    "ns": 0,
+    "title": "AquaDom",
+    "lat": 52.519666666667,
+    "lon": 13.402666666667,
+    "dist": 60.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5956656,
+    "ns": 0,
+    "title": "YOC",
+    "lat": 52.519264,
+    "lon": 13.402546,
+    "dist": 33,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11530360,
+    "ns": 0,
+    "title": "Spandauer Straße 68",
+    "lat": 52.520055,
+    "lon": 13.40514,
+    "dist": 24.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8034416,
+    "ns": 0,
+    "title": "Hotel de Saxe (Berlin)",
+    "lat": 52.518611111111,
+    "lon": 13.403055555556,
+    "dist": 46.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1645348,
+    "ns": 0,
+    "title": "DDR-Museum Berlin",
+    "lat": 52.518930555556,
+    "lon": 13.402258333333,
+    "dist": 25,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 13091914,
+    "ns": 0,
+    "title": "Zum Altstädter Hof",
+    "lat": 52.519981,
+    "lon": 13.405532,
+    "dist": 45.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10314117,
+    "ns": 0,
+    "title": "Zentrales Regierungshochhaus der DDR",
+    "lat": 52.518452,
+    "lon": 13.404486,
+    "dist": 122.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4153334,
+    "ns": 0,
+    "title": "Neuer Markt (Berlin)",
+    "lat": 52.520007,
+    "lon": 13.405638,
+    "dist": 48.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 840147,
+    "ns": 0,
+    "title": "Marx-Engels-Forum",
+    "lat": 52.518333333333,
+    "lon": 13.404166666667,
+    "dist": 116.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 69619366,
+    "ns": 0,
+    "title": "Memorial to the First Homosexual Emancipation Movement",
+    "lat": 52.5185,
+    "lon": 13.36,
+    "dist": 117.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 12336180,
+    "ns": 0,
+    "title": "Denkmal für die erste Homosexuelle Emanzipationsbewegung",
+    "lat": 52.5185,
+    "lon": 13.360027777778,
+    "dist": 116.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7655934,
+    "ns": 0,
+    "title": "Hofjägerallee",
+    "lat": 52.512447,
+    "lon": 13.350577,
+    "dist": 55.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 799734,
+    "ns": 0,
+    "title": "Bellevue Palace, Germany",
+    "lat": 52.5175,
+    "lon": 13.353333333333333,
+    "dist": 88.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 136248,
+    "ns": 0,
+    "title": "Schloss Bellevue",
+    "lat": 52.5175,
+    "lon": 13.353333333333,
+    "dist": 88.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3726751,
+    "ns": 0,
+    "title": "Lutherbrücke",
+    "lat": 52.517777777778,
+    "lon": 13.354833333333,
+    "dist": 77.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7651283,
+    "ns": 0,
+    "title": "Spreeweg",
+    "lat": 52.51605,
+    "lon": 13.352413,
+    "dist": 14.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4851664,
+    "ns": 0,
+    "title": "Herkulesbrücke",
+    "lat": 52.505722222222,
+    "lon": 13.352027777778,
+    "dist": 14.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 50437723,
+    "ns": 0,
+    "title": "Löwenkämpfer",
+    "lat": 52.51893,
+    "lon": 13.39855,
+    "dist": 140.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4325358,
+    "ns": 0,
+    "title": "Liebknechtbrücke",
+    "lat": 52.518611111111,
+    "lon": 13.401666666667,
+    "dist": 3.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3440073,
+    "ns": 0,
+    "title": "Granitschale im Lustgarten",
+    "lat": 52.5191065,
+    "lon": 13.3991629,
+    "dist": 130.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2732343,
+    "ns": 0,
+    "title": "Berliner Dom",
+    "lat": 52.519166666667,
+    "lon": 13.401111111111,
+    "dist": 75.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5519364,
+    "ns": 0,
+    "title": "Karl-Liebknecht-Straße",
+    "lat": 52.521388888888886,
+    "lon": 13.407222222222222,
+    "dist": 56.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 486313,
+    "ns": 0,
+    "title": "Fernsehturm Berlin",
+    "lat": 52.520833333333336,
+    "lon": 13.409444444444444,
+    "dist": 140.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 5569838,
+    "ns": 0,
+    "title": "St. Mary's Church, Berlin",
+    "lat": 52.52055555555555,
+    "lon": 13.406666666666666,
+    "dist": 44.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 5528599,
+    "ns": 0,
+    "title": "Hafenbar",
+    "lat": 52.5217313,
+    "lon": 13.4071546,
+    "dist": 51.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2447311,
+    "ns": 0,
+    "title": "Karl-Liebknecht-Straße (Berlin)",
+    "lat": 52.521388888889,
+    "lon": 13.407222222222,
+    "dist": 56.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11207996,
+    "ns": 0,
+    "title": "Kalandshof (Berlin)",
+    "lat": 52.521026,
+    "lon": 13.408202,
+    "dist": 75.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3905979,
+    "ns": 0,
+    "title": "Zentralmarkthalle Berlin",
+    "lat": 52.5224,
+    "lon": 13.4077,
+    "dist": 78.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 41429,
+    "ns": 0,
+    "title": "Ost-Berlin",
+    "lat": 52.52204425,
+    "lon": 13.406775,
+    "dist": 86.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 13179949,
+    "ns": 0,
+    "title": "Sedan-Panorama",
+    "lat": 52.52156,
+    "lon": 13.40965,
+    "dist": 85,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12490299,
+    "ns": 0,
+    "title": "Illuseum Berlin",
+    "lat": 52.521299979814,
+    "lon": 13.406280998271,
+    "dist": 32.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 578990,
+    "ns": 0,
+    "title": "Marienkirche (Berlin-Mitte)",
+    "lat": 52.520644,
+    "lon": 13.407059,
+    "dist": 59.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11419922,
+    "ns": 0,
+    "title": "Umbauung des Berliner Fernsehturms",
+    "lat": 52.520659,
+    "lon": 13.408983,
+    "dist": 134.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 18458,
+    "ns": 0,
+    "title": "Berliner Fernsehturm",
+    "lat": 52.520803,
+    "lon": 13.40945,
+    "dist": 142.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 61915503,
+    "ns": 0,
+    "title": "Clock of Flowing Time",
+    "lat": 52.50444,
+    "lon": 13.33889,
+    "dist": 91,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 10639950,
+    "ns": 0,
+    "title": "Olof-Palme-Platz",
+    "lat": 52.50555555555555,
+    "lon": 13.340555555555556,
+    "dist": 24.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 498680,
+    "ns": 0,
+    "title": "Berlin-Uhr",
+    "lat": 52.505153,
+    "lon": 13.338878,
+    "dist": 15.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10214406,
+    "ns": 0,
+    "title": "Hotel Palace Berlin",
+    "lat": 52.504777777778,
+    "lon": 13.338777777778,
+    "dist": 52.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 579902,
+    "ns": 0,
+    "title": "Romanisches Café",
+    "lat": 52.504444444444,
+    "lon": 13.338888888889,
+    "dist": 90.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 613078,
+    "ns": 0,
+    "title": "Uhr der fließenden Zeit",
+    "lat": 52.504444444444,
+    "lon": 13.338888888889,
+    "dist": 90.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7651314,
+    "ns": 0,
+    "title": "John-Foster-Dulles-Allee",
+    "lat": 52.517631,
+    "lon": 13.362358,
+    "dist": 11.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 13085538,
+    "ns": 0,
+    "title": "Large Divided Oval: Butterfly",
+    "lat": 52.51796,
+    "lon": 13.36435,
+    "dist": 72.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2075239,
+    "ns": 0,
+    "title": "Kroll Opera House",
+    "lat": 52.51861111111111,
+    "lon": 13.370555555555557,
+    "dist": 86.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 36182174,
+    "ns": 0,
+    "title": "Platz der Republik (Berlin)",
+    "lat": 52.5186,
+    "lon": 13.3725,
+    "dist": 113.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 5357242,
+    "ns": 0,
+    "title": "Soviet War Memorial (Tiergarten)",
+    "lat": 52.516666666666666,
+    "lon": 13.372222222222224,
+    "dist": 136.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 11711225,
+    "ns": 0,
+    "title": "Trianon-Theater",
+    "lat": 52.518611111111,
+    "lon": 13.370555555556,
+    "dist": 86.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 851413,
+    "ns": 0,
+    "title": "Platz der Republik (Berlin)",
+    "lat": 52.518611111111,
+    "lon": 13.3725,
+    "dist": 114.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12647466,
+    "ns": 0,
+    "title": "Alliierten-Parade am 8. Mai 1946 in Berlin",
+    "lat": 52.5167,
+    "lon": 13.3722,
+    "dist": 132.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 454036,
+    "ns": 0,
+    "title": "Sowjetisches Ehrenmal (Tiergarten)",
+    "lat": 52.516666666667,
+    "lon": 13.372222222222,
+    "dist": 136.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 267358,
+    "ns": 0,
+    "title": "Tiergartentunnel",
+    "lat": 52.516388888889,
+    "lon": 13.370555555556,
+    "dist": 141.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1637862,
+    "ns": 0,
+    "title": "Berlin-Pavillon (Reichstag)",
+    "lat": 52.5176,
+    "lon": 13.3738,
+    "dist": 21.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 105822,
+    "ns": 0,
+    "title": "Krolloper",
+    "lat": 52.51855,
+    "lon": 13.3687,
+    "dist": 119.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5178360,
+    "ns": 0,
+    "title": "Zollernhof",
+    "lat": 52.517488888889,
+    "lon": 13.386908333333,
+    "dist": 50.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7900091,
+    "ns": 0,
+    "title": "Abhörstation",
+    "lat": 52.517928,
+    "lon": 13.385714,
+    "dist": 107.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1737195,
+    "ns": 0,
+    "title": "Berliner Bankenviertel",
+    "lat": 52.517004,
+    "lon": 13.387548888889,
+    "dist": 14.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8142620,
+    "ns": 0,
+    "title": "Warenhaus für Armee und Marine",
+    "lat": 52.518174,
+    "lon": 13.38573,
+    "dist": 134.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6893695,
+    "ns": 0,
+    "title": "Neustädtischer Kirchplatz",
+    "lat": 52.51813,
+    "lon": 13.385,
+    "dist": 136.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7925781,
+    "ns": 0,
+    "title": "Dorotheenstädtische Kirche",
+    "lat": 52.51813,
+    "lon": 13.385,
+    "dist": 136.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 47280185,
+    "ns": 0,
+    "title": "Statue of Alexander von Humboldt (Tiergarten, Berlin)",
+    "lat": 52.50599,
+    "lon": 13.34296,
+    "dist": 132.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 5032550,
+    "ns": 0,
+    "title": "Deutsches Künstlertheater",
+    "lat": 52.50556,
+    "lon": 13.34187,
+    "dist": 59,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2837569,
+    "ns": 0,
+    "title": "Deutsche Verkehrswacht",
+    "lat": 52.5059282,
+    "lon": 13.3430038,
+    "dist": 127.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5832671,
+    "ns": 0,
+    "title": "Budapester Straße (Berlin)",
+    "lat": 52.505833333333,
+    "lon": 13.341944444444,
+    "dist": 88.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12725824,
+    "ns": 0,
+    "title": "Botschaft Uruguays in Berlin",
+    "lat": 52.5049,
+    "lon": 13.3407,
+    "dist": 41.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10253141,
+    "ns": 0,
+    "title": "Franziskus-Krankenhaus Berlin",
+    "lat": 52.5062,
+    "lon": 13.3428,
+    "dist": 149.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2462031,
+    "ns": 0,
+    "title": "Olof-Palme-Platz (Berlin)",
+    "lat": 52.505555555556,
+    "lon": 13.340555555556,
+    "dist": 24.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12230302,
+    "ns": 0,
+    "title": "Kolleg Schöneberg",
+    "lat": 52.5032869,
+    "lon": 13.3413184,
+    "dist": 188.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 28782169,
+    "ns": 0,
+    "title": "1757 raid on Berlin",
+    "lat": 52.523405,
+    "lon": 13.4114,
+    "dist": 84.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 1732635,
+    "ns": 0,
+    "title": "Park Inn by Radisson Berlin Alexanderplatz",
+    "lat": 52.522777777777776,
+    "lon": 13.412777777777778,
+    "dist": 170.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3120106,
+    "ns": 0,
+    "title": "Galeria Berlin Alexanderplatz",
+    "lat": 52.522376944444,
+    "lon": 13.411506111111,
+    "dist": 103.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5471346,
+    "ns": 0,
+    "title": "DDR Museum: Motorrad",
+    "lat": 52.523111111111,
+    "lon": 13.407666666667,
+    "dist": 133.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3135276,
+    "ns": 0,
+    "title": "Park Inn by Radisson Berlin Alexanderplatz",
+    "lat": 52.522777777778,
+    "lon": 13.412777777778,
+    "dist": 170.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1469518,
+    "ns": 0,
+    "title": "Münzstraße (Berlin)",
+    "lat": 52.524285,
+    "lon": 13.408451,
+    "dist": 185.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2678672,
+    "ns": 0,
+    "title": "Victoria-Theater",
+    "lat": 52.524285,
+    "lon": 13.408451,
+    "dist": 185.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5795867,
+    "ns": 0,
+    "title": "Haus des Berliner Verlages",
+    "lat": 52.524334935612,
+    "lon": 13.411846068847,
+    "dist": 177,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 24536906,
+    "ns": 0,
+    "title": "Deutsche Guggenheim",
+    "lat": 52.516666666666666,
+    "lon": 13.39111111111111,
+    "dist": 70,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 995643,
+    "ns": 0,
+    "title": "Friedrichstraße",
+    "lat": 52.516666666667,
+    "lon": 13.389166666667,
+    "dist": 56.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 36299614,
+    "ns": 0,
+    "title": "Unter den Linden (Berlin U-Bahn)",
+    "lat": 52.517,
+    "lon": 13.3889,
+    "dist": 18.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 517614,
+    "ns": 0,
+    "title": "Germania (city)",
+    "lat": 52.516666666666666,
+    "lon": 13.38888888888889,
+    "dist": 54.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 47285787,
+    "ns": 0,
+    "title": "The Westin Grand Berlin",
+    "lat": 52.5161,
+    "lon": 13.3886,
+    "dist": 114.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 439138,
+    "ns": 0,
+    "title": "Römischer Hof",
+    "lat": 52.5175,
+    "lon": 13.390277777778,
+    "dist": 31.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5382372,
+    "ns": 0,
+    "title": "Deutsche Guggenheim",
+    "lat": 52.516772,
+    "lon": 13.391028,
+    "dist": 57.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8093183,
+    "ns": 0,
+    "title": "Hotel Victoria (Berlin)",
+    "lat": 52.517222222222,
+    "lon": 13.389166666667,
+    "dist": 10.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10453858,
+    "ns": 0,
+    "title": "Unter den Linden (Hotel)",
+    "lat": 52.517222222222,
+    "lon": 13.389166666667,
+    "dist": 10.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5948043,
+    "ns": 0,
+    "title": "Lindencorso",
+    "lat": 52.516667,
+    "lon": 13.389567,
+    "dist": 59.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8159655,
+    "ns": 0,
+    "title": "Carlton-Hotel",
+    "lat": 52.516388888889,
+    "lon": 13.390555555556,
+    "dist": 96.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3877624,
+    "ns": 0,
+    "title": "Upper Eastside Berlin",
+    "lat": 52.517267,
+    "lon": 13.389067,
+    "dist": 11.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11715208,
+    "ns": 0,
+    "title": "Kleines Theater Unter den Linden",
+    "lat": 52.517407693935,
+    "lon": 13.389086227177,
+    "dist": 27,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 76920194,
+    "ns": 0,
+    "title": "Lindentunnel",
+    "lat": 52.5174,
+    "lon": 13.3951,
+    "dist": 6.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3200100,
+    "ns": 0,
+    "title": "Neue Wache",
+    "lat": 52.5175,
+    "lon": 13.395555555555555,
+    "dist": 3.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 71370378,
+    "ns": 0,
+    "title": "Bülow Memorial, Berlin",
+    "lat": 52.51716,
+    "lon": 13.3955,
+    "dist": 37.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 391156,
+    "ns": 0,
+    "title": "Berlin State Opera",
+    "lat": 52.516666666666666,
+    "lon": 13.39472222222222,
+    "dist": 86.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 58135097,
+    "ns": 0,
+    "title": "Prinzessinnenpalais",
+    "lat": 52.5169,
+    "lon": 13.3962,
+    "dist": 69.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 36793270,
+    "ns": 0,
+    "title": "Kronprinzenpalais",
+    "lat": 52.51722222222222,
+    "lon": 13.396944444444443,
+    "dist": 52.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 11880176,
+    "ns": 0,
+    "title": "Scharnhorst-Denkmal (Berlin)",
+    "lat": 52.517149501911,
+    "lon": 13.395386468402,
+    "dist": 39.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11880112,
+    "ns": 0,
+    "title": "Bülow-Denkmal (Berlin)",
+    "lat": 52.517165,
+    "lon": 13.395501,
+    "dist": 37.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 122739,
+    "ns": 0,
+    "title": "Neue Wache",
+    "lat": 52.517928,
+    "lon": 13.395543,
+    "dist": 48.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 105053,
+    "ns": 0,
+    "title": "Staatsoper Unter den Linden",
+    "lat": 52.516666666667,
+    "lon": 13.395,
+    "dist": 87.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11887365,
+    "ns": 0,
+    "title": "Gneisenau-Denkmal (Berlin)",
+    "lat": 52.516586513548,
+    "lon": 13.395583557492,
+    "dist": 100.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10303329,
+    "ns": 0,
+    "title": "Blücher-Denkmal (Berlin)",
+    "lat": 52.516569,
+    "lon": 13.39575,
+    "dist": 108,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11887356,
+    "ns": 0,
+    "title": "Yorck-Denkmal (Berlin)",
+    "lat": 52.516599163169,
+    "lon": 13.395906093101,
+    "dist": 104,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7762355,
+    "ns": 0,
+    "title": "Standbild Eilhard Mitscherlich",
+    "lat": 52.518501,
+    "lon": 13.3946,
+    "dist": 113.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5334589,
+    "ns": 0,
+    "title": "Alte Kommandantur",
+    "lat": 52.51722222222222,
+    "lon": 13.397777777777778,
+    "dist": 48.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 2772171,
+    "ns": 0,
+    "title": "Kommandantenhaus (Berlin)",
+    "lat": 52.517222222222,
+    "lon": 13.397777777778,
+    "dist": 48.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8042427,
+    "ns": 0,
+    "title": "Hotel d’Angleterre (Berlin)",
+    "lat": 52.516805555556,
+    "lon": 13.398055555556,
+    "dist": 94.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 47558009,
+    "ns": 0,
+    "title": "Representation of the European Commission in Germany",
+    "lat": 52.5169,
+    "lon": 13.3801,
+    "dist": 41.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 5400285,
+    "ns": 0,
+    "title": "Prussian Staff College",
+    "lat": 52.5175,
+    "lon": 13.381388888888889,
+    "dist": 56.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 9574978,
+    "ns": 0,
+    "title": "Warschauer Straße",
+    "lat": 52.51658,
+    "lon": 13.381,
+    "dist": 7.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 8168425,
+    "ns": 0,
+    "title": "Zum schwarzen Ferkel",
+    "lat": 52.5164,
+    "lon": 13.3808,
+    "dist": 24.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 9558926,
+    "ns": 0,
+    "title": "Berlin Brandenburger Tor station",
+    "lat": 52.51638888888889,
+    "lon": 13.380833333333333,
+    "dist": 26.4,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 36298750,
+    "ns": 0,
+    "title": "Embassy of France, Berlin",
+    "lat": 52.51694444444444,
+    "lon": 13.379166666666666,
+    "dist": 100.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3038981,
+    "ns": 0,
+    "title": "Hotel Adlon",
+    "lat": 52.516038888888886,
+    "lon": 13.379938888888889,
+    "dist": 84,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 40254858,
+    "ns": 0,
+    "title": "Humboldt-Viadrina School of Governance",
+    "lat": 52.5184,
+    "lon": 13.3805,
+    "dist": 36.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 7906931,
+    "ns": 0,
+    "title": "Pariser Platz",
+    "lat": 52.5164,
+    "lon": 13.3789,
+    "dist": 126.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 6717039,
+    "ns": 0,
+    "title": "Embassy of the United Kingdom, Berlin",
+    "lat": 52.51583333333333,
+    "lon": 13.380833333333333,
+    "dist": 87.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 5922879,
+    "ns": 0,
+    "title": "Verbindungsbüro des Europäischen Parlaments in Deutschland",
+    "lat": 52.516764,
+    "lon": 13.3805239,
+    "dist": 11.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5768111,
+    "ns": 0,
+    "title": "Vertretung der Europäischen Kommission in Deutschland",
+    "lat": 52.5169,
+    "lon": 13.3801,
+    "dist": 41.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5281199,
+    "ns": 0,
+    "title": "Ungarische Botschaft in Berlin",
+    "lat": 52.516791,
+    "lon": 13.380973,
+    "dist": 17.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1517552,
+    "ns": 0,
+    "title": "Preußische Kriegsakademie",
+    "lat": 52.517597222222,
+    "lon": 13.381258333333,
+    "dist": 49.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4620339,
+    "ns": 0,
+    "title": "Bahnhof Berlin Brandenburger Tor",
+    "lat": 52.516388888889,
+    "lon": 13.380833333333,
+    "dist": 26.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1685896,
+    "ns": 0,
+    "title": "Zum schwarzen Ferkel",
+    "lat": 52.516354,
+    "lon": 13.380841,
+    "dist": 30.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 792139,
+    "ns": 0,
+    "title": "Palais Beauvryé",
+    "lat": 52.516983,
+    "lon": 13.37917,
+    "dist": 99.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3528661,
+    "ns": 0,
+    "title": "Französische Botschaft in Berlin",
+    "lat": 52.516983,
+    "lon": 13.37917,
+    "dist": 99.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5249669,
+    "ns": 0,
+    "title": "Polnische Botschaft in Berlin",
+    "lat": 52.516894444444,
+    "lon": 13.382261111111,
+    "dist": 43.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12896378,
+    "ns": 0,
+    "title": "Haus Sommer (Berlin, Dorotheenstraße)",
+    "lat": 52.51786,
+    "lon": 13.37937,
+    "dist": 59,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 34224236,
+    "ns": 0,
+    "title": "Berlin Aquarium",
+    "lat": 52.505833333333335,
+    "lon": 13.340555555555556,
+    "dist": 54.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 6237968,
+    "ns": 0,
+    "title": "Elefantentor (Zoologischer Garten Berlin)",
+    "lat": 52.505658,
+    "lon": 13.339771,
+    "dist": 31.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1190315,
+    "ns": 0,
+    "title": "Aquarium Berlin",
+    "lat": 52.505833333333,
+    "lon": 13.340555555556,
+    "dist": 54.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 449616,
+    "ns": 0,
+    "title": "Europa-Center",
+    "lat": 52.504444444444,
+    "lon": 13.338888888889,
+    "dist": 90.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12089870,
+    "ns": 0,
+    "title": "Iguanodon-Skulptur (Berlin)",
+    "lat": 52.5061,
+    "lon": 13.34037,
+    "dist": 82,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2337058,
+    "ns": 0,
+    "title": "Schimmelpfeng-Haus",
+    "lat": 52.504722222222,
+    "lon": 13.333611111111,
+    "dist": 90.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3353212,
+    "ns": 0,
+    "title": "Kaiserhöfe",
+    "lat": 52.517277777778,
+    "lon": 13.388,
+    "dist": 12.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 13028093,
+    "ns": 0,
+    "title": "Französisches Kulturzentrum (Unter den Linden)",
+    "lat": 52.5166,
+    "lon": 13.3879,
+    "dist": 54.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5982793,
+    "ns": 0,
+    "title": "Haus der Schweiz",
+    "lat": 52.5175,
+    "lon": 13.388611111111,
+    "dist": 40.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6820172,
+    "ns": 0,
+    "title": "U-Bahnhof Unter den Linden",
+    "lat": 52.517,
+    "lon": 13.3889,
+    "dist": 18.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7248947,
+    "ns": 0,
+    "title": "Finnland-Institut",
+    "lat": 52.51782,
+    "lon": 13.38844,
+    "dist": 70.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1329774,
+    "ns": 0,
+    "title": "Konrad-Adenauer-Haus (Berlin)",
+    "lat": 52.506388888889,
+    "lon": 13.351388888889,
+    "dist": 37.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6609812,
+    "ns": 0,
+    "title": "Berlin-Copenhagen Cycle Route",
+    "lat": 52.51638888888889,
+    "lon": 13.377777777777778,
+    "dist": 164.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 831769,
+    "ns": 0,
+    "title": "Deutsche Parlamentarische Gesellschaft",
+    "lat": 52.5186869,
+    "lon": 13.3777495,
+    "dist": 92.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11497109,
+    "ns": 0,
+    "title": "Haus Liebermann",
+    "lat": 52.516714,
+    "lon": 13.377875,
+    "dist": 132.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1382403,
+    "ns": 0,
+    "title": "Kurfürstendamm (Berlin U-Bahn)",
+    "lat": 52.50416666666667,
+    "lon": 13.332777777777778,
+    "dist": 170.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 11727428,
+    "ns": 0,
+    "title": "Schlosspark Bellevue",
+    "lat": 52.517541666667,
+    "lon": 13.351038888889,
+    "dist": 190.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 449476,
+    "ns": 0,
+    "title": "Bahnhof Berlin Alexanderplatz",
+    "lat": 52.5214,
+    "lon": 13.4119,
+    "dist": 198.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1231599,
+    "ns": 0,
+    "title": "Alte Bibliothek (Berlin)",
+    "lat": 52.516388888889,
+    "lon": 13.393333333333,
+    "dist": 107,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5089715,
+    "ns": 0,
+    "title": "Bauhaus Archive",
+    "lat": 52.50611111111111,
+    "lon": 13.354166666666666,
+    "dist": 152.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 9229596,
+    "ns": 0,
+    "title": "Botschaft Monacos in Berlin",
+    "lat": 52.506714,
+    "lon": 13.351685,
+    "dist": 19.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12698972,
+    "ns": 0,
+    "title": "Botschaft Bahrains in Berlin",
+    "lat": 52.5069,
+    "lon": 13.3515,
+    "dist": 31.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8209,
+    "ns": 0,
+    "title": "Bauhaus-Archiv",
+    "lat": 52.506111111111,
+    "lon": 13.354166666667,
+    "dist": 152.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 76033,
+    "ns": 0,
+    "title": "Palast der Republik",
+    "lat": 52.5175,
+    "lon": 13.402222222222,
+    "dist": 125,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 9436518,
+    "ns": 0,
+    "title": "Amazone zu Pferde (Kiß)",
+    "lat": 52.519284172615,
+    "lon": 13.399252978897,
+    "dist": 144.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11030111,
+    "ns": 0,
+    "title": "Skulpturen gegen Krieg und Gewalt",
+    "lat": 52.51855,
+    "lon": 13.3685,
+    "dist": 128.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1096686,
+    "ns": 0,
+    "title": "Flagge der Einheit",
+    "lat": 52.518419388889,
+    "lon": 13.374795111111,
+    "dist": 72.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1223299,
+    "ns": 0,
+    "title": "Jakob-Kaiser-Haus",
+    "lat": 52.518333333333,
+    "lon": 13.378888888889,
+    "dist": 59.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 16717806,
+    "ns": 0,
+    "title": "Ethnological Museum of Berlin",
+    "lat": 52.5175,
+    "lon": 13.402778,
+    "dist": 142.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 433175,
+    "ns": 0,
+    "title": "Berlin Palace",
+    "lat": 52.5175,
+    "lon": 13.402777777777779,
+    "dist": 141.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 7681317,
+    "ns": 0,
+    "title": "Museum of Asian Art",
+    "lat": 52.5175,
+    "lon": 13.402777777777779,
+    "dist": 141.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 336382,
+    "ns": 0,
+    "title": "Palace of the Republic, Berlin",
+    "lat": 52.5175,
+    "lon": 13.402777777777779,
+    "dist": 141.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 8022544,
+    "ns": 0,
+    "title": "Hotel König von Portugal (Berlin)",
+    "lat": 52.518333333333,
+    "lon": 13.404166666667,
+    "dist": 116.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 58616995,
+    "ns": 0,
+    "title": "C/O Berlin",
+    "lat": 52.50665,
+    "lon": 13.33057,
+    "dist": 74.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 33664173,
+    "ns": 0,
+    "title": "Amerika Haus Berlin",
+    "lat": 52.50666666666667,
+    "lon": 13.330555555555556,
+    "dist": 75.5,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 3395753,
+    "ns": 0,
+    "title": "Museum of Photography, Berlin",
+    "lat": 52.507777777777775,
+    "lon": 13.331666666666667,
+    "dist": 123.2,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 176764,
+    "ns": 0,
+    "title": "Bahnhof Berlin Zoologischer Garten",
+    "lat": 52.5072,
+    "lon": 13.3325,
+    "dist": 78.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1898516,
+    "ns": 0,
+    "title": "Beate Uhse Erotik-Museum",
+    "lat": 52.505508333333,
+    "lon": 13.331383333333,
+    "dist": 106.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4661413,
+    "ns": 0,
+    "title": "C/O Berlin",
+    "lat": 52.506667,
+    "lon": 13.330556,
+    "dist": 75.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2407930,
+    "ns": 0,
+    "title": "Amerika-Haus (Berlin)",
+    "lat": 52.506666666667,
+    "lon": 13.330555555556,
+    "dist": 75.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 9997846,
+    "ns": 0,
+    "title": "Die Rakete (Kabarett)",
+    "lat": 52.5053,
+    "lon": 13.3316,
+    "dist": 116.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10641888,
+    "ns": 0,
+    "title": "Berliner Kunsthalle",
+    "lat": 52.50675,
+    "lon": 13.330277777778,
+    "dist": 95.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12711538,
+    "ns": 0,
+    "title": "Gigantentreppe",
+    "lat": 52.516805555556,
+    "lon": 13.40075,
+    "dist": 137.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 976740,
+    "ns": 0,
+    "title": "Neptunbrunnen (Berlin)",
+    "lat": 52.5196,
+    "lon": 13.40687,
+    "dist": 138.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 1258398,
+    "ns": 0,
+    "title": "Rosenstrasse protest",
+    "lat": 52.52180555555555,
+    "lon": 13.404444444444445,
+    "dist": 152,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 39903563,
+    "ns": 0,
+    "title": "Berlin Dungeon",
+    "lat": 52.52141,
+    "lon": 13.40348,
+    "dist": 165.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4150846,
+    "ns": 0,
+    "title": "Lutherdenkmal (Berlin, Marienkirche)",
+    "lat": 52.520233333333,
+    "lon": 13.405958333333,
+    "dist": 51.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4140057,
+    "ns": 0,
+    "title": "Alte Synagoge (Berlin)",
+    "lat": 52.521101,
+    "lon": 13.404841,
+    "dist": 85.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 631144,
+    "ns": 0,
+    "title": "Neptunbrunnen (Berlin)",
+    "lat": 52.519722222222,
+    "lon": 13.406666666667,
+    "dist": 119.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5910842,
+    "ns": 0,
+    "title": "Royal Palast",
+    "lat": 52.50411,
+    "lon": 13.33822,
+    "dist": 117.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 32499389,
+    "ns": 0,
+    "title": "ARD-Hauptstadtstudio",
+    "lat": 52.51888888888889,
+    "lon": 13.380833333333333,
+    "dist": 94.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 4510862,
+    "ns": 0,
+    "title": "Humboldt-Viadrina School of Governance",
+    "lat": 52.5184,
+    "lon": 13.3805,
+    "dist": 36.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 10773087,
+    "ns": 0,
+    "title": "Robert-Koch-Forum",
+    "lat": 52.518566666667,
+    "lon": 13.381288888889,
+    "dist": 79.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12722585,
+    "ns": 0,
+    "title": "Botschaft Boliviens in Berlin",
+    "lat": 52.5052,
+    "lon": 13.3485,
+    "dist": 177.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12722571,
+    "ns": 0,
+    "title": "Botschaft Panamas in Berlin",
+    "lat": 52.5052,
+    "lon": 13.3485,
+    "dist": 177.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1495119,
+    "ns": 0,
+    "title": "Zeughaus",
+    "lat": 52.51777777777777,
+    "lon": 13.396944444444443,
+    "dist": 36.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 78740422,
+    "ns": 0,
+    "title": "Museum for German History",
+    "lat": 52.518055555555556,
+    "lon": 13.396944444444443,
+    "dist": 58.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 2618678,
+    "ns": 0,
+    "title": "German Historical Museum",
+    "lat": 52.518055555555556,
+    "lon": 13.396944444444443,
+    "dist": 58.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 610683,
+    "ns": 0,
+    "title": "Zeughaus (Berlin)",
+    "lat": 52.517777777778,
+    "lon": 13.396944444444,
+    "dist": 36.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2767341,
+    "ns": 0,
+    "title": "Gießhaus (Berlin)",
+    "lat": 52.517777777778,
+    "lon": 13.396944444444,
+    "dist": 36.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2873734,
+    "ns": 0,
+    "title": "Deutsches Historisches Museum",
+    "lat": 52.517777777778,
+    "lon": 13.396944444444,
+    "dist": 36.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 785008,
+    "ns": 0,
+    "title": "Kronprinzenpalais (Berlin)",
+    "lat": 52.517222222222,
+    "lon": 13.396944444444,
+    "dist": 52.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1328173,
+    "ns": 0,
+    "title": "Neue Abteilung der Nationalgalerie Berlin im Kronprinzenpalais",
+    "lat": 52.517222222222,
+    "lon": 13.396944444444,
+    "dist": 52.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1063093,
+    "ns": 0,
+    "title": "Oberverwaltungsgericht Berlin-Brandenburg",
+    "lat": 52.50728,
+    "lon": 13.33078,
+    "dist": 93.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2612654,
+    "ns": 0,
+    "title": "Museum für Fotografie (Berlin)",
+    "lat": 52.507713,
+    "lon": 13.33178,
+    "dist": 116,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4740669,
+    "ns": 0,
+    "title": "Haus der Kulturen der Welt",
+    "lat": 52.51888888888889,
+    "lon": 13.365277777777777,
+    "dist": 172.8,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 1115734,
+    "ns": 0,
+    "title": "In den Zelten",
+    "lat": 52.518611111111,
+    "lon": 13.365277777778,
+    "dist": 144.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 660906,
+    "ns": 0,
+    "title": "Haus der Kulturen der Welt",
+    "lat": 52.518888888889,
+    "lon": 13.365277777778,
+    "dist": 172.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 240793,
+    "ns": 0,
+    "title": "Kongresshalle (Berlin-Tiergarten)",
+    "lat": 52.518888888889,
+    "lon": 13.365277777778,
+    "dist": 172.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3083353,
+    "ns": 0,
+    "title": "Spandauer Straße",
+    "lat": 52.519197222222,
+    "lon": 13.405894444444,
+    "dist": 127.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1430065,
+    "ns": 0,
+    "title": "Heilig-Geist-Spital (Berlin)",
+    "lat": 52.520833333333,
+    "lon": 13.403055555556,
+    "dist": 136.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 311273,
+    "ns": 0,
+    "title": "Berlin-Mitte",
+    "lat": 52.519444444444,
+    "lon": 13.406666666667,
+    "dist": 142.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4170003,
+    "ns": 0,
+    "title": "Heilige-Geist-Viertel",
+    "lat": 52.521107,
+    "lon": 13.403172,
+    "dist": 153.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8938636,
+    "ns": 0,
+    "title": "Carillon in Berlin-Tiergarten",
+    "lat": 52.51777777777777,
+    "lon": 13.367222222222223,
+    "dist": 40.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 391938,
+    "ns": 0,
+    "title": "Tiergarten (Berlin)",
+    "lat": 52.516666666666666,
+    "lon": 13.366666666666667,
+    "dist": 88.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 387785,
+    "ns": 0,
+    "title": "Mitte",
+    "lat": 52.516666666666666,
+    "lon": 13.366666666666667,
+    "dist": 88.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 72877,
+    "ns": 0,
+    "title": "Carillon (Berlin)",
+    "lat": 52.517777777778,
+    "lon": 13.367222222222,
+    "dist": 40.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 2254081,
+    "ns": 0,
+    "title": "Berlin-Tiergarten",
+    "lat": 52.516666666667,
+    "lon": 13.366666666667,
+    "dist": 88.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 7807858,
+    "ns": 0,
+    "title": "Tipi am Kanzleramt",
+    "lat": 52.518362,
+    "lon": 13.367084,
+    "dist": 104.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 12687522,
+    "ns": 0,
+    "title": "Botschaft Montenegros in Berlin",
+    "lat": 52.5162,
+    "lon": 13.3908,
+    "dist": 120.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1433796,
+    "ns": 0,
+    "title": "Café Bauer (Berlin)",
+    "lat": 52.516694444444,
+    "lon": 13.389138888889,
+    "dist": 52.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5117823,
+    "ns": 0,
+    "title": "Historische Mitte (Berlin)",
+    "lat": 52.516666666667,
+    "lon": 13.389166666667,
+    "dist": 56.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1903441,
+    "ns": 0,
+    "title": "Friedrichstraße",
+    "lat": 52.516666666667,
+    "lon": 13.389166666667,
+    "dist": 56.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 8000674,
+    "ns": 0,
+    "title": "Palais Strousberg",
+    "lat": 52.51583333333333,
+    "lon": 13.380833333333333,
+    "dist": 87.6,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 10250797,
+    "ns": 0,
+    "title": "Matthias-Erzberger-Haus",
+    "lat": 52.51616,
+    "lon": 13.38128,
+    "dist": 57.5,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 5433784,
+    "ns": 0,
+    "title": "Ministerium für Volksbildung (DDR)",
+    "lat": 52.516,
+    "lon": 13.3814,
+    "dist": 77.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1549038,
+    "ns": 0,
+    "title": "Palais Strousberg",
+    "lat": 52.515833333333,
+    "lon": 13.380833333333,
+    "dist": 87.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1282846,
+    "ns": 0,
+    "title": "Britische Botschaft in Berlin",
+    "lat": 52.515833333333,
+    "lon": 13.380833333333,
+    "dist": 87.6,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 50218347,
+    "ns": 0,
+    "title": "Statue of Theodor Fontane",
+    "lat": 52.50984,
+    "lon": 13.34829,
+    "dist": 194.7,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 11534974,
+    "ns": 0,
+    "title": "Fontane-Denkmal (Großer Tiergarten)",
+    "lat": 52.50982,
+    "lon": 13.34826,
+    "dist": 197.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 406134,
+    "ns": 0,
+    "title": "ARD-Hauptstadtstudio",
+    "lat": 52.518852777778,
+    "lon": 13.380966666667,
+    "dist": 93.7,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1894353,
+    "ns": 0,
+    "title": "Marschallbrücke",
+    "lat": 52.519166666667,
+    "lon": 13.380277777778,
+    "dist": 122.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 11293111,
+    "ns": 0,
+    "title": "ICN Business School",
+    "lat": 52.5161,
+    "lon": 13.387299722222,
+    "dist": 105.8,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3657522,
+    "ns": 0,
+    "title": "Kaisergalerie",
+    "lat": 52.516222222222,
+    "lon": 13.388322222222,
+    "dist": 126.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 48413370,
+    "ns": 0,
+    "title": "Humboldt Forum",
+    "lat": 52.5175,
+    "lon": 13.402777777777779,
+    "dist": 141.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 448319,
+    "ns": 0,
+    "title": "Schloßplatz (Berlin)",
+    "lat": 52.5175,
+    "lon": 13.402777777778,
+    "dist": 141.3,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 490147,
+    "ns": 0,
+    "title": "Bebelplatz",
+    "lat": 52.516388888889,
+    "lon": 13.393888888889,
+    "dist": 110.2,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 4933746,
+    "ns": 0,
+    "title": "Brunnen der Völkerfreundschaft (Berlin)",
+    "lat": 52.522027777778,
+    "lon": 13.412777777778,
+    "dist": 197.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 6179990,
+    "ns": 0,
+    "title": "Haus Lützowplatz 1",
+    "lat": 52.505096,
+    "lon": 13.353993,
+    "dist": 157.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 40442027,
+    "ns": 0,
+    "title": "Quasimodo (music venue)",
+    "lat": 52.505944444444445,
+    "lon": 13.32906111111111,
+    "dist": 190.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 34546659,
+    "ns": 0,
+    "title": "Theater des Westens",
+    "lat": 52.505944444444445,
+    "lon": 13.32906111111111,
+    "dist": 190.1,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 1188961,
+    "ns": 0,
+    "title": "Preußisches Oberverwaltungsgericht",
+    "lat": 52.50747655,
+    "lon": 13.330460423662,
+    "dist": 124.4,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 1956201,
+    "ns": 0,
+    "title": "Der Bevölkerung",
+    "lat": 52.518888888889,
+    "lon": 13.376111111111,
+    "dist": 128.9,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 202179,
+    "ns": 0,
+    "title": "Unter den Linden",
+    "lat": 52.516666666667,
+    "lon": 13.389166666667,
+    "dist": 56.1,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 50426443,
+    "ns": 0,
+    "title": "Schinkelplatz",
+    "lat": 52.5166,
+    "lon": 13.3982,
+    "dist": 131.9,
+    "primary": "",
+    "lang": "en"
+  },
+  {
+    "pageid": 6769767,
+    "ns": 0,
+    "title": "Campo Santo (Berlin)",
+    "lat": 52.519583,
+    "lon": 13.400445,
+    "dist": 143.3,
+    "primary": "",
+    "lang": "de"
+  },
+  {
+    "pageid": 3976743,
+    "ns": 0,
+    "title": "Außenpolitisches Amt der NSDAP",
+    "lat": 52.515833333333,
+    "lon": 13.380555555556,
+    "dist": 88.2,
+    "primary": "",
+    "lang": "de"
+  }
+]
