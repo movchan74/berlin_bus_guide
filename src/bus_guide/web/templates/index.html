@@ -11,13 +11,18 @@
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
         }
 
         .header {
             background-color: #95276E;
             color: white;
             padding: 1rem;
-            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         .header h1 {
@@ -25,9 +30,32 @@
             font-size: 1.5rem;
         }
 
+        .header-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .btn {
+            background-color: white;
+            color: #95276E;
+            border: none;
+            padding: 5px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .btn:hover {
+            background-color: #f0f0f0;
+        }
+
         .map-container {
+            flex: 1;
             width: 100%;
-            height: calc(100vh - 70px);
         }
 
         .map-container iframe {
@@ -41,6 +69,9 @@
 <body>
     <div class="header">
         <h1>Berlin Bus 100 Tourist Guide</h1>
+        <div class="header-buttons">
+            <a href="/editor" class="btn">Edit Map</a>
+        </div>
     </div>
     <div class="map-container">
         <iframe src="{{ map_url }}" title="Berlin Bus 100 Map" id="map-iframe"></iframe>

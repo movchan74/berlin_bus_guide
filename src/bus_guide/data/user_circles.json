@@ -1,0 +1,28 @@
+[
+  {
+    "id": "circle_1741390840115",
+    "name": "Circle for Großer Stern",
+    "center": [
+      52.5145,
+      13.35011
+    ],
+    "radius": 200.0,
+    "color": "#95276E",
+    "articles": [
+      15
+    ]
+  },
+  {
+    "id": "circle_1741524389602",
+    "name": "Circle for Timeline of Berlin",
+    "center": [
+      52.516667,
+      13.383333
+    ],
+    "radius": 200.0,
+    "color": "#95276E",
+    "articles": [
+      299
+    ]
+  }
+]

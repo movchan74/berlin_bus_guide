@@ -42,7 +42,7 @@ def extract_coordinates(
 
 
 def get_wikipedia_articles(
-    lat: float, lon: float, radius: int = 200, language: str = "en"
+    lat: float, lon: float, radius: int = 500, language: str = "en"
 ) -> List[Dict[str, Any]]:
     """
     Get Wikipedia articles near the specified coordinates.
@@ -60,7 +60,7 @@ def get_wikipedia_articles(
         "list": "geosearch",
         "gscoord": f"{lat}|{lon}",
         "gsradius": radius,
-        "gslimit": 10,
+        "gslimit": 50,
     }
 
     try:

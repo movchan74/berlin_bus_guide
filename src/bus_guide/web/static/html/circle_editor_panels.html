@@ -1,0 +1,36 @@
+<!-- Circle Editor Panel -->
+<div id="circle-panel" class="circle-panel" style="display:none;">
+    <h3>Circle Editor</h3>
+    <div id="circle-form">
+        <label for="circle-name">Circle Name:</label>
+        <input type="text" id="circle-name" style="width:100%; margin-bottom:10px;" placeholder="Enter circle name">
+        
+        <h4>Assigned Articles</h4>
+        <div id="assigned-articles">
+            <p>No articles assigned to this circle</p>
+            <ul id="assigned-articles-list" class="article-list"></ul>
+        </div>
+        
+        <div style="display:flex; justify-content:space-between; margin-top:15px;">
+            <button id="save-circle-btn" class="action-btn">Save Circle</button>
+            <button id="delete-circle-btn" class="action-btn" style="background:#ff4d4d;">Delete</button>
+            <button id="close-panel-btn" class="close-btn">Close</button>
+        </div>
+    </div>
+</div>
+
+<!-- Nearby Circles Assignment Panel -->
+<div id="nearby-circles-panel" class="nearby-circles-panel" style="display:none;">
+    <h3>Assign to Circle</h3>
+    <p id="article-to-assign"></p>
+    
+    <h4>Nearby Circles:</h4>
+    <div id="nearby-circles-list">
+        <p class="no-circles-message">No circles found nearby</p>
+    </div>
+    
+    <div style="margin-top:15px; display:flex; justify-content:space-between;">
+        <button id="create-circle-btn" class="action-btn">Create New Circle</button>
+        <button id="close-nearby-panel-btn" class="close-btn">Cancel</button>
+    </div>
+</div>
