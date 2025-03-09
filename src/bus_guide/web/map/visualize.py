@@ -22,10 +22,6 @@ def create_map(edit_mode=False):
     bus_route = load_json_file(base_path / "routes/bus100.geojson")
     wiki_articles = load_json_file(base_path / "data/wiki_articles.json")
 
-    # Load saved circles if they exist
-    circles_path = base_path / "data/user_circles.json"
-    saved_circles = load_json_file(circles_path)
-
     # Create map centered on Berlin
     m = folium.Map(
         location=[52.52, 13.38],  # Berlin center coordinates
@@ -100,21 +96,6 @@ def create_map(edit_mode=False):
             <a href="{wiki_url}" target="_blank">Read on Wikipedia</a>
         """
 
-        if edit_mode:
-            # In edit mode, show a button to assign article to circles
-            # Also add article data attributes for finding nearby circles
-            popup_html += f"""
-            <br>
-            <button onclick="showNearbyCircles({i}, {article["lat"]}, {article["lon"]}, '{article["title"]}')">
-                Assign to Circle
-            </button>
-            <div class="article-data" 
-                 data-article-id="{i}" 
-                 data-article-lat="{article["lat"]}" 
-                 data-article-lon="{article["lon"]}"
-                 data-article-title="{article["title"]}">
-            </div>
-            """
 
         marker = folium.Marker(
             location=location,
@@ -128,47 +109,6 @@ def create_map(edit_mode=False):
         else:
             marker.add_to(marker_cluster_de)
 
-    # Add circles to the map - simplified to just render circles with minimal information
-    # All interactions will be handled by JavaScript API calls
-    for circle in saved_circles:
-        # Minimal popup with just the circle name
-        popup_content = f"""<b>{circle["name"]}</b>"""
-        
-        # Create circle with minimal configuration
-        circle_obj = folium.Circle(
-            location=circle["center"],
-            radius=circle["radius"],
-            color=circle["color"],
-            fill=True,
-            fill_color=circle["color"],
-            fill_opacity=0.2,
-            popup=folium.Popup(popup_content, max_width=300),
-            tooltip=circle["name"],
-        )
-        
-        # Add data attributes for JavaScript interaction
-        circle_obj._id = circle["id"]
-        circle_obj.add_to(user_circles)
-        
-        # Add custom data attribute for JavaScript to identify this circle
-        circle_obj.add_child(
-            folium.Element(f"""
-            <script>
-                (function() {{
-                    var circle = document.currentScript.parentElement;
-                    circle.setAttribute('data-circle-id', '{circle["id"]}');
-                    
-                    // If in edit mode, add event listener for circle selection
-                    if ({str(edit_mode).lower()}) {{
-                        circle.addEventListener('click', function(e) {{
-                            e.originalEvent.stopPropagation();
-                            window.selectCircle('{circle["id"]}');
-                        }});
-                    }}
-                }})();
-            </script>
-            """)
-        )
 
     # Add the feature groups to the map
     articles_en.add_to(m)
@@ -204,74 +144,6 @@ def create_map(edit_mode=False):
         m.get_root().html.add_child(folium.Element(
             '<script src="/static/js/circle_editor.js"></script>'
         ))
-        
-        # Add custom JavaScript initialization to properly hook into the draw create events
-        m.get_root().html.add_child(folium.Element("""
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-                // Wait for Leaflet and Draw plugin to initialize
-                setTimeout(function() {
-                    if (typeof L !== 'undefined' && map) {
-                        // Listen for the draw:created event
-                        map.on('draw:created', function(e) {
-                            var layer = e.layer;
-                            if (e.layerType === 'circle') {
-                                // Call the handler function from circle_editor.js
-                                handleNewCircle(layer);
-                            }
-                        });
-                        
-                        // Listen for the draw:edited event
-                        map.on('draw:edited', function(e) {
-                            var layers = e.layers;
-                            layers.eachLayer(function(layer) {
-                                // Find the circle ID from the DOM element
-                                var circleElement = layer._path;
-                                if (circleElement && circleElement.hasAttribute('data-circle-id')) {
-                                    var circleId = circleElement.getAttribute('data-circle-id');
-                                    
-                                    // Get updated circle data
-                                    fetch('/get-circle/' + circleId)
-                                        .then(response => response.json())
-                                        .then(circleData => {
-                                            // Update with new coordinates and radius
-                                            circleData.center = [layer.getLatLng().lat, layer.getLatLng().lng];
-                                            circleData.radius = layer.getRadius();
-                                            
-                                            // Save the updated circle via API
-                                            return fetch('/save-circle', {
-                                                method: 'POST',
-                                                headers: {'Content-Type': 'application/json'},
-                                                body: JSON.stringify(circleData)
-                                            });
-                                        })
-                                        .then(response => response.json())
-                                        .catch(error => console.error('Error updating circle:', error));
-                                }
-                            });
-                        });
-                        
-                        // Listen for the draw:deleted event
-                        map.on('draw:deleted', function(e) {
-                            var layers = e.layers;
-                            layers.eachLayer(function(layer) {
-                                // Find the circle ID from the DOM element
-                                var circleElement = layer._path;
-                                if (circleElement && circleElement.hasAttribute('data-circle-id')) {
-                                    var circleId = circleElement.getAttribute('data-circle-id');
-                                    
-                                    // Delete the circle via API
-                                    fetch('/delete-circle/' + circleId, {
-                                        method: 'DELETE'
-                                    }).catch(error => console.error('Error deleting circle:', error));
-                                }
-                            });
-                        });
-                    }
-                }, 1000);
-            });
-        </script>
-        """))
 
     # Add layer control
     folium.LayerControl().add_to(m)
