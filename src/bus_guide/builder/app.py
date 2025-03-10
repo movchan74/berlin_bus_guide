@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 from fastapi import FastAPI, HTTPException, Request
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from pydantic import BaseModel
@@ -20,6 +20,9 @@ templates = Jinja2Templates(directory=str(Path(__file__).parent / "templates"))
 
 # Path for storing user circles
 circles_path = Path(__file__).parent.parent / "data" / "user_circles.json"
+
+# Routes directory
+routes_path = Path(__file__).parent.parent / "routes"
 
 
 # Model for circle data
@@ -219,6 +222,62 @@ async def add_article_to_circle(circle_id: str, article: ArticleOperation):
 
     if not circle_found:
         raise HTTPException(status_code=404, detail="Circle not found")
+
+
+@app.get("/api/routes/{route_id}")
+async def get_route(route_id: str):
+    """Retrieve GeoJSON data for a specific route"""
+    route_file = routes_path / f"bus{route_id}.geojson"
+
+    if not route_file.exists():
+        raise HTTPException(status_code=404, detail=f"Route {route_id} not found")
+
+    try:
+        with open(route_file, "r", encoding="utf-8") as f:
+            geojson_data = json.load(f)
+        return geojson_data
+    except json.JSONDecodeError:
+        raise HTTPException(status_code=500, detail="Error parsing route data")
+    except Exception as e:
+        raise HTTPException(
+            status_code=500, detail=f"Error reading route data: {str(e)}"
+        )
+
+
+@app.get("/api/routes")
+async def list_routes():
+    """List all available routes"""
+    if not routes_path.exists():
+        return []
+
+    try:
+        route_files = list(routes_path.glob("bus*.geojson"))
+        routes = []
+
+        for route_file in route_files:
+            route_id = route_file.stem.replace("bus", "")
+            with open(route_file, "r", encoding="utf-8") as f:
+                geojson_data = json.load(f)
+
+                # Extract basic route information if available
+                route_info = {"id": route_id, "file": route_file.name}
+
+                # Try to extract name from the first feature's properties
+                if geojson_data.get("features") and len(geojson_data["features"]) > 0:
+                    properties = geojson_data["features"][0].get("properties", {})
+                    if "name" in properties:
+                        route_info["name"] = properties["name"]
+                    if "ref" in properties:
+                        route_info["ref"] = properties["ref"]
+                    if "from" in properties and "to" in properties:
+                        route_info["from"] = properties["from"]
+                        route_info["to"] = properties["to"]
+
+                routes.append(route_info)
+
+        return routes
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error listing routes: {str(e)}")
 
 
 if __name__ == "__main__":
